@@ -88,7 +88,7 @@ In this space, you can post images or screenshots if you consider it necessary. 
 
 ### Built With
 
-In this space you have the opportunity to mention which software/hardware was used for this project. In [this link] (https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
+In this space you have the opportunity to mention which software/hardware was used for this project. In [this link](https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
 
 * [![Adafruit][Adafruit.com]][Adafruit-url]
 * [![ArduinoIDE][ArduinoIDE.com]][ArduinoIDE-url]
