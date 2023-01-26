@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/amaliamunera/BEC-Template-Repository">
-    <img src="images/BEC-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/BEC-logo.png" alt="Logo" width="130" height="130">
   </a>
 
 <h3 align="center">Project-Template-BEC</h3>
