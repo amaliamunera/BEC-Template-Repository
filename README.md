@@ -54,15 +54,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="software-hardware--types-of-data">Software, Hardware & Types of Data</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites-and-additional-data">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#background-information">Background Information</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap-and-data-features">Roadmap And Data Features</a></li>
@@ -86,22 +84,15 @@ In this space, you can post images or screenshots if you consider it necessary. 
 
 
 
-### Built With
+### Software, Hardware & Types of Data
 
-In this space you have the opportunity to mention which software/hardware was used for this project. In [this link](https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
+In this space you have the opportunity to mention which software/hardware was used for this project and what is the nature of the data. In [this link](https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
 
 * [![Adafruit][Adafruit.com]][Adafruit-url]
 * [![ArduinoIDE][ArduinoIDE.com]][ArduinoIDE-url]
 * [![Arduino][Arduino.com]][Arduino-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-The aim of this space is to share the information that each researcher considers relevant to their repository and the use of their data.  
 
 ### Prerequisites
 
@@ -131,6 +122,11 @@ Example of a list of steps on how to install material or download software to us
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+
+<!-- GETTING STARTED -->
+## Background Information
+
+The aim of this space is to share the information that each researcher considers relevant to their repository and the use of their data. This may be, for example, a theoretical framework to provide context, sources of inspiration for the project, among others.   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
