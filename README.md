@@ -80,6 +80,9 @@
 
 This is a new space for all members of the research group to have the opportunity to share both research information and research data. 
 In this space, you can post images or screenshots if you consider it necessary.  For more information, please contact: `amaliamunera` on GitHub, or `@amalia_munera` on twitter.
+
+[![DOI](https://zenodo.org/badge/593666123.svg)](https://zenodo.org/badge/latestdoi/593666123)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
