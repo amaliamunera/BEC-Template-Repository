@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/amaliamunera/BEC-Template-Repository">
-    <img src="BEC-logo.png" alt="Logo" width="120" height="120">
+    <img src="images/BEC-logo.png" alt="Logo" width="130" height="130">
   </a>
 
 <h3 align="center">Project-Template-BEC</h3>
@@ -54,15 +54,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="software-hardware--types-of-data">Software, Hardware & Types of Data</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites-and-additional-data">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#background-information">Background Information</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap-and-data-features">Roadmap And Data Features</a></li>
@@ -86,22 +84,15 @@ In this space, you can post images or screenshots if you consider it necessary. 
 
 
 
-### Built With
+### Software, Hardware & Types of Data
 
-In this space you have the opportunity to mention which software/hardware was used for this project. In [this link] (https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
+In this space you have the opportunity to mention which software/hardware was used for this project and what is the nature of the data. In [this link](https://dev.to/envoy_/150-badges-for-github-pnk) you will find more badges for you to use in your projects.
 
 * [![Adafruit][Adafruit.com]][Adafruit-url]
 * [![ArduinoIDE][ArduinoIDE.com]][ArduinoIDE-url]
 * [![Arduino][Arduino.com]][Arduino-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-The aim of this space is to share the information that each researcher considers relevant to their repository and the use of their data.  
 
 ### Prerequisites
 
@@ -131,6 +122,11 @@ Example of a list of steps on how to install material or download software to us
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+
+<!-- GETTING STARTED -->
+## Background Information
+
+The aim of this space is to share the information that each researcher considers relevant to their repository and the use of their data. This may be, for example, a theoretical framework to provide context, sources of inspiration for the project, among others.   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,21 +222,7 @@ Project Link: [https://github.com/amaliamunera/BEC-Template-Repository](https://
 [license-url]: https://github.com/amaliamunera/BEC-Template-Repository/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/amaliamunera
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[product-screenshot]: images/data-network.png
 [Arduino.com]: https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 [Arduino-url]: https://www.arduino.cc/
 [ArduinoIDE.com]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
